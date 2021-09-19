@@ -1,5 +1,5 @@
 # panzerstorm
-Basic implementation of popular game 1990 TANKS in console.
+Basic implementation of popular game 1990 TANKS in console. (using ncurses)
 U need to use ANY Unix terminal to test
 
 just type ./a.out for start
